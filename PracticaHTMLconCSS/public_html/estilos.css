@@ -1,0 +1,70 @@
+/*
+comentarios
+*/
+h1{ color: #0707D6;
+    background: beige;
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+    border-width: 3px medium 3px medium;
+    border-style: solid;
+    padding: 20px 0 20px;
+    
+} 
+h2{ width: 150px;
+    height: 50px;
+    text-align: center;
+    margin-left: 20px;
+    color: hsla(202, 97%, 38%, 0.8);
+    background: beige;
+    border-radius: 70px;
+    border-width: 3px;
+    border-style: solid;
+    padding: 20px 0px 0px;
+}
+.parrafo{
+    color:#011149;
+    background: beige;
+    font-size: small;
+    text-transform: uppercase;
+    margin-left: 50px;
+    margin-bottom: 100px;
+    padding: 20px;
+    width: 700px;
+    font-family: 'Roboto', sans-serif;    
+}
+img{
+    border-radius: 200px;
+    border: 4px double rgb(8, 58, 241);
+    margin-left: 20%;
+    margin-top: 50px;
+    padding: 4px;
+    
+}
+#segundo{
+    border:5px groove aqua;
+    font-size: medium;
+    text-align: justify;
+    font-style: italic;
+    font-family: 'Roboto', sans-serif;
+    padding: 30px;
+    margin-bottom: 50px;
+    margin-left: 10%;
+    width: 550px;  
+}
+a{
+    text-decoration: none black;
+   
+}
+
+footer{
+    background-color: rgba(236, 206, 118, 0.2);
+    border-top: double 6px;
+    text-align: right;
+    padding: 20px;
+    padding-left: 30px;
+    font-style: oblique;
+    
+    
+        
+}
